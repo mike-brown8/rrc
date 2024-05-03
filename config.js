@@ -19,7 +19,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-	
-    }
+      text: '官网',
+      url: 'https://rrcs.709000.xyz/web/'
+    },
+    {
+      text: 'MTR部分线路图',
+      url: 'https://rrc.709000.xyz/'
+    },
   ],
 };
